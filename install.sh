@@ -7,6 +7,8 @@ mkdir /etc/emulationstation/themes/simple/kodi/art
 
 
 
+
+
 #theme
 <theme>
     <formatVersion>3</formatVersion>
