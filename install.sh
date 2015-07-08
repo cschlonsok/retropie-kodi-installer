@@ -6,6 +6,7 @@ mkdir /etc/emulationstation/themes/simple/kodi/art
 #icon: http://kodi.wiki/view/Official:Media_center_logos
 
 
+
 #theme
 <theme>
     <formatVersion>3</formatVersion>
